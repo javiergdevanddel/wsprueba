@@ -2,14 +2,42 @@
   "alumno": [
     {
       "id": 1,
-      "title": "Javi"
+      "title": "Javi",
+      "clase": "2"
     },
     {
       "id": 2,
-      "title": "Pedro"
+      "title": "Pedro",
+      "clase": "1"
+    },
+    {
+      "id": 3,
+      "title": "Alvaro",
+      "clase": "1"
+    },
+    {
+      "id": 4,
+      "title": "Miguel",
+      "clase": "2"
+    },
+    {
+      "id": 5,
+      "title": "Dani",
+      "clase": "2"
+    }
+  ],
+  "clase": [
+    {
+        "id": "1",
+        "nombre": "clase 1"
+    },
+    {
+      "id": "2",
+      "nombre": "clase 2"
     }
   ],
   "profile": {
     "name": "typicode"
   }
 }
+
