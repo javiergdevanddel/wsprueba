@@ -1,0 +1,15 @@
+{
+  "alumno": [
+    {
+      "id": 1,
+      "title": "Javi"
+    },
+    {
+      "id": 2,
+      "title": "Pedro"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
